@@ -1,0 +1,2 @@
+- After going through several levels the game decides to restart the room even though we have not moved or killed
+  the player.
